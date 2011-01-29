@@ -2,7 +2,7 @@
 ##################################################
 # Gnuradio Python Flow Graph
 # Title: Simulated Sender GUI
-# Generated: Mon Jan 24 17:00:47 2011
+# Generated: Sat Jan 29 16:30:39 2011
 ##################################################
 
 from gnuradio import blks2
