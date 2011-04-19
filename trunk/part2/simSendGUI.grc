@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='ASCII'?>
 <flow_graph>
-  <timestamp>Sat Jan 29 16:16:29 2011</timestamp>
+  <timestamp>Mon Apr 18 21:09:56 2011</timestamp>
   <block>
     <key>options</key>
     <param>
@@ -34,6 +34,10 @@
     <param>
       <key>category</key>
       <value>Custom</value>
+    </param>
+    <param>
+      <key>run_options</key>
+      <value>prompt</value>
     </param>
     <param>
       <key>run</key>
@@ -251,6 +255,10 @@
       <value>50</value>
     </param>
     <param>
+      <key>ref_scale</key>
+      <value>2.0</value>
+    </param>
+    <param>
       <key>fft_size</key>
       <value>256</value>
     </param>
@@ -269,6 +277,14 @@
     <param>
       <key>avg_alpha</key>
       <value>0.1</value>
+    </param>
+    <param>
+      <key>win</key>
+      <value>None</value>
+    </param>
+    <param>
+      <key>win_size</key>
+      <value></value>
     </param>
     <param>
       <key>grid_pos</key>
