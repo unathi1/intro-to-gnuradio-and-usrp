@@ -1,0 +1,1 @@
+This project contains code that corresponds to a series of blog posts I'm doing over at http://pwnhome.wordpress.com. The goal is to introduce people like myself who have little to no experience with the wireless physical layer to wireless communications. Enjoy!
